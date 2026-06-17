@@ -1,7 +1,7 @@
 # Hi, I'm Ananya 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-katram)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:katram.ananya09@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:katram.ananya09@gmail.com?subject=Hello)
 
 **Data Analyst · Analytics Engineer · Data Engineer · Full-Stack**
 MS Computer Science @ UT Arlington
@@ -18,10 +18,12 @@ MS Computer Science @ UT Arlington
 **Languages & Querying:** Python · SQL · R
 **Data Engineering:** Snowflake · dbt
 **Analysis & ML:** Pandas · NumPy · Scikit-learn · XGBoost
-**AI/LLM:** Claude API · Groq · RAG (ChromaDB) · Tavily
-**Visualization:** Plotly · Tableau · Power BI
-**Backend & Frontend:** FastAPI · React · REST API Design
-**Cloud & Deploy:** AWS · Azure · Render · Vercel
+**AI / LLM Engineering:** Claude API · Groq (Llama 3.3) · Prompt Engineering · NLP Basics
+**RAG & Retrieval:** ChromaDB · Vector Embeddings · Semantic Search · Tavily (real-time web retrieval)
+**Backend:** FastAPI · REST API Design · Python
+**Frontend:** React · JavaScript · Plotly · Recharts · TailwindCSS
+**Visualization & BI:** Plotly · Tableau · Power BI · Looker Studio
+**Cloud & Deploy:** AWS · Azure · Render · Vercel · Railway
 
 **Familiar With (coursework / theoretical foundation):** Apache Kafka · Airflow · Apache Spark · Databricks
 
@@ -30,11 +32,12 @@ MS Computer Science @ UT Arlington
 ### [DataSense](https://github.com/shiny-github/DataSense)
 Real-time data pipeline + AI anomaly detection on 1M+ retail transactions. Bronze→Silver→Gold architecture (dbt + Snowflake), statistical + ML anomaly detection, RAG-powered AI agent that explains anomalies in plain English.
 `Snowflake` `dbt` `Python` `ChromaDB` `Groq AI` `FastAPI` `React`
-🔗 [Live Demo](https://data-sense-eight.vercel.app)
+🔗 [Live Demo](https://data-sense-eight.vercel.app) *(hosted free tier — first load may take 30-60s to wake up)*
 
 ### [DataPulse AI](https://github.com/shiny-github/datapulse-ai)
 Self-service analytics platform — upload any dataset, get an automated 5-stage ETL pipeline, auto-detected business domain, and a RAG-powered AI that answers questions grounded in your actual data.
 `FastAPI` `React` `ChromaDB` `Groq AI` `Azure`
+🔗 [Live Demo](https://datapulse-ai-six.vercel.app/)
 
 ## 📅 Experience Timeline
 Jan 2026 – Present  │  Data Analytics & Reporting Specialist @ Bank of America
