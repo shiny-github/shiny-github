@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananya-katram)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:katram.ananya09@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/shiny-github?style=for-the-badge&logo=github)](https://github.com/shiny-github)
 
 **Data Analyst · Analytics Engineer · Data Engineer · Full-Stack**
 MS Computer Science @ UT Arlington
