@@ -49,5 +49,6 @@ Jun 2021 – Nov 2023  │  Data & Reporting Analyst @ Max Healthcare
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/ananya-katram](https://www.linkedin.com/in/ananya-katram)
 - Email: katram.ananya09@gmail.com
+- Portfolio: https://portfolio-website-hazel-six-33.vercel.app
 
 ⭐️ Check out my pinned repos below for code that actually runs in production.
